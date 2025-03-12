@@ -8,6 +8,14 @@ Faculty and staff can set up accounts to access cloud models like GPT, Gemini, a
 
 This repository has examples of how to use the Toolkit. 
 
+Example list:
+* [Basic connectivity, testing of API key, LLM chat completion](NaviGator_test.ipynb)
+* [Checking your key's budget info](NaviGator_budget_info.ipynb)
+* [Using different LLMs with same prompt to test models](model_eval_demo.ipynb)
+* [Generating images with Flux](NaviGator_image_generation.ipynb)
+* [Trascribing audio with Whisper](NaviGator_whisper_demo.ipynb)
+
+
 Please also see:
 
 * UFIT Research Computing documentation on [NaviGator Toolkit](https://docs.rc.ufl.edu/training/NaviGator_Toolkit/).
