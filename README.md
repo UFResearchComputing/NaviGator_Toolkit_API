@@ -13,7 +13,7 @@ Example list:
 * [Checking your key's budget info](NaviGator_budget_info.ipynb)
 * [Using different LLMs with same prompt to test models](model_eval_demo.ipynb)
 * [Generating images with Flux](NaviGator_image_generation.ipynb)
-* [Trascribing audio with Whisper](NaviGator_whisper_demo.ipynb)
+* [Transcribing audio with Whisper](NaviGator_whisper_demo.ipynb)
 
 
 Please also see:
