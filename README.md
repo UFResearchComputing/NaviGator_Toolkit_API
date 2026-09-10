@@ -1,6 +1,6 @@
 # NaviGator Toolkit API Examples 
 
-![NaviGator log](navigator.png)
+![NaviGator logo](navigator.png)
 
  [NaviGator Toolkit](https://it.ufl.edu/ai/navigator-toolkit/) is an [OpenAI](https://platform.openai.com/docs/overview)-compatible tool that provides API access to large language models such as Llama, and Mixtral. Image generation models like Flux and speech-to-text models like Whisper are also available.
 
