@@ -10,7 +10,6 @@ This repository has examples of how to use the Toolkit.
 
 Example list:
 * [Basic connectivity, testing of API key, LLM chat completion](NaviGator_test.ipynb)
-* [Checking your key's budget info](NaviGator_budget_info.ipynb)
 * [Using different LLMs with same prompt to test models](model_eval_demo.ipynb)
 * [Generating images with Flux](NaviGator_image_generation.ipynb)
 * [Transcribing audio with Whisper](NaviGator_whisper_demo.ipynb)
@@ -21,3 +20,4 @@ Please also see:
 * UFIT Research Computing documentation on [NaviGator Toolkit](https://docs.rc.ufl.edu/training/NaviGator_Toolkit/).
 * UFIT [NaviGator Toolkit page](https://it.ufl.edu/ai/navigator-toolkit/).
 * UFIT [Navigator Toolkit documentation](https://docs.ai.it.ufl.edu/).
+    * The [minimal RAG example](https://docs.ai.it.ufl.edu/docs/navigator_toolkit/building_apps_with_toolkit/simple_rag_example) may be of interst. 
